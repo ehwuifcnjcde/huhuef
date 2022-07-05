@@ -1,0 +1,26 @@
+﻿{
+    "name": "KALI-ME",
+    "description": "KK",
+    "keywords": ["KK"],
+    "env": {
+        "AA": {
+            "description": "kali",
+            "value": "20"
+        },
+        "AUUID": {
+            "description": "user",
+            "value": "8f91b6a0-e8ee-11ea-adc1-0242ac120002"
+        },
+        "CADDYIndexPage": {
+            "description": "pass",
+            "value": "https://google/index.html"
+        },
+        "ParameterSSENCYPT": {
+            "description": "kalis",
+            "value": "chacha20-ietf-poly1305"
+        }
+    },
+    "repository": "",
+    "stack": "container"
+}
+
