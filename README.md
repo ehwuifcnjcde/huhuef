@@ -1,1 +1,1 @@
-[![Deploy]](https://dashboard.heroku.com/new?template=https://github.com/erevtgy7677/shell)
+https://dashboard.heroku.com/new?template=https://github.com/ri38d/linux-166
